@@ -28,7 +28,7 @@ Drop-in adapters for the AI frameworks you already use:
 | **CrewAI** (Python) | [`tessera-crewai`](https://pypi.org/project/tessera-crewai/) | `pip install tessera-crewai` |
 | **AutoGen 0.4+** (Python) | [`tessera-autogen`](https://pypi.org/project/tessera-autogen/) | `pip install tessera-autogen` |
 
-All seven integrations route through the same proxy at `api.tesseraai.io` with a single `tsr_…` key. Mix and match safely — they don't conflict.
+All seven integrations route through the same proxy at `api.tesseraai.io` with a single `tk_…` key. Mix and match safely — they don't conflict.
 
 ---
 
@@ -36,7 +36,7 @@ All seven integrations route through the same proxy at `api.tesseraai.io` with a
 
 ```python
 import tessera
-tessera.activate(api_key="tsr_...")
+tessera.activate(api_key="tk_...")
 
 # Your existing OpenAI / Anthropic / Mistral / Groq / Cohere code
 # runs unchanged. Every request now flows through Tessera.
