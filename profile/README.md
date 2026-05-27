@@ -69,9 +69,9 @@ Per-stack quality canary auto-rollback fires per (workload, mechanic-stack) tupl
 ## Pricing
 
 - **Free Sandbox** — 60M tokens/month, hard cap at quota, $0 fee, observability-only mechanics. Solo devs + side projects covered entirely.
-- **Production** — 20% of measured savings, prepaid balance via Stripe Checkout ($100 minimum top-up). All seven mechanics active. Unlimited workloads + API keys. Auto-rollback + 10% credit on quality regression.
+- **Production** — 20% of measured savings, prepaid balance via Stripe Checkout ($100 minimum top-up). All mechanics active. Unlimited workloads + API keys. Auto-rollback + 10% credit on quality regression.
 
-No card up front. No trial expiry. No bait-and-switch. First 100 paying customers grandfathered indefinitely on original terms.
+No card up front. No trial expiry. No bait-and-switch. Single flat rate for every paid client.
 
 ---
 
