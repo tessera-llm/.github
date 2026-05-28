@@ -2,7 +2,7 @@
 
 **Programmable LLM gateway.** A thin substrate proxy in your AI request path. Auto-route, exact + semantic cache, prompt compression, batch arbitrage, cross-provider failover, per-stack quality canary — under a single drop-in SDK. Cost optimization is the wedge. Substrate is the endgame.
 
-**Free 60M tokens/month. Production: 20% of measured savings. $0 if we save you nothing.**
+**Free 60M tokens/month. Paid tiers are a flat monthly subscription by token volume — Starter $199, Growth $999, Scale $3,999, Enterprise custom. Keep 100% of measured savings.**
 
 → [tesseraai.io](https://tesseraai.io) · [tesseraai.io/dev](https://tesseraai.io/dev) · [ledger.tesseraai.io](https://ledger.tesseraai.io)
 
@@ -69,9 +69,9 @@ Per-stack quality canary auto-rollback fires per (workload, mechanic-stack) tupl
 ## Pricing
 
 - **Free Sandbox** — 60M tokens/month, hard cap at quota, $0 fee, observability-only mechanics. Solo devs + side projects covered entirely.
-- **Production** — 20% of measured savings, prepaid balance via Stripe Checkout ($100 minimum top-up). All mechanics active. Unlimited workloads + API keys. Auto-rollback + 10% credit on quality regression.
+- **Paid tiers** — flat monthly subscription by gross tokens submitted: Starter $199 (≤1B), Growth $999 (≤5B), Scale $3,999 (≤20B), Enterprise custom (20B+). Full mechanic stack active, unlimited workloads + API keys, auto-rollback + 10% credit on quality regression. You keep 100% of measured savings.
 
-No card up front. No trial expiry. No bait-and-switch. Single flat rate for every paid client.
+No card up front. No trial expiry. No per-token markup, no cut of your savings — you keep 100% of what we save you.
 
 ---
 
