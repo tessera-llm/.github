@@ -22,7 +22,7 @@ Drop-in adapters for the AI frameworks you already use:
 |---|---|---|
 | **LangChain** (Python + Node) | [`tessera-langchain`](https://github.com/tessera-llm/tessera-langchain) | `pip install tessera-langchain` · `npm install @tessera-llm/langchain` |
 | **Vercel AI SDK** (Node) | [`tessera-vercel-ai`](https://github.com/tessera-llm/tessera-vercel-ai) | `npm install @tessera-llm/vercel-ai` |
-| **LlamaIndex** (Python + Node) | [`tessera-llamaindex`](https://github.com/tessera-llm/tessera-llamaindex) | `pip install tessera-llamaindex` · `npm install @tessera-llm/llamaindex` |
+| **LlamaIndex** (Python) | [`tessera-llamaindex`](https://github.com/tessera-llm/tessera-llamaindex) | `pip install tessera-llamaindex` |
 | **Mastra** (Node) | [`@tessera-llm/mastra`](https://www.npmjs.com/package/@tessera-llm/mastra) | `npm install @tessera-llm/mastra` |
 | **Pydantic AI** (Python) | [`tessera-pydantic-ai`](https://pypi.org/project/tessera-pydantic-ai/) | `pip install tessera-pydantic-ai` |
 | **CrewAI** (Python) | [`tessera-crewai`](https://pypi.org/project/tessera-crewai/) | `pip install tessera-crewai` |
@@ -68,7 +68,7 @@ Per-stack quality canary auto-rollback fires per (workload, mechanic-stack) tupl
 
 ## Pricing
 
-- **Free Sandbox** — 60M tokens/month, hard cap at quota, $0 fee, observability-only mechanics. Solo devs + side projects covered entirely.
+- **Free Sandbox** — 60M tokens/month, hard cap at quota, $0 fee, full mechanic stack active (route · cache · compress · batch). Solo devs + side projects covered entirely.
 - **Paid tiers** — flat monthly subscription by gross tokens submitted: Starter $199 (≤1B), Growth $999 (≤5B), Scale $3,999 (≤20B), Enterprise custom (20B+). Full mechanic stack active, unlimited workloads + API keys, auto-rollback + 10% credit on quality regression. You keep 100% of measured savings.
 
 No card up front. No trial expiry. No per-token markup, no cut of your savings — you keep 100% of what we save you.
